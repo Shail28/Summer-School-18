@@ -1,2 +1,1 @@
-# Summer-School-18
-# Created By Shail Kothari
+Website for Summer School 2018 organized by IEEE Student Branch DA-IICT.
